@@ -1,5 +1,7 @@
 ## Data Types for Health Promotion
-This repository includes materials for the course HSO32303 offered in Period 4 (2025) at Wageningen University & Research. 
+This repository includes materials for the course HSO32303 offered in Period 4 at Wageningen University & Research. 
+
+Materials include both examples using agent-based modelling as well as computational text analysis. 
 
 To set up both both Visual Studio Code and managing virtual environments (which you need to install required packages), please follow the tutorials below:
 
